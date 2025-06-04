@@ -1,6 +1,6 @@
-# 🌿 PlantCLEF 2025 - Multi-Species Plant Identification
+#  PlantCLEF 2025 - Multi-Species Plant Identification
 
-## 📝 Overview
+##  Overview
 
 This repository contains my solution for the **PlantCLEF 2025** challenge hosted as part of **LifeCLEF 2025** and the **CVPR-FGVC workshop**. The task involves **multi-species plant identification** in **high-resolution vegetation quadrat images**.
 
@@ -8,7 +8,7 @@ A quadrat is a rectangular frame placed on the ground to define a fixed area for
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 - Identify all plant species present in each image.
 - Learn robust representations for fine-grained, multi-label classification.
@@ -16,7 +16,7 @@ A quadrat is a rectangular frame placed on the ground to define a fixed area for
 
 ---
 
-## 📂 Contents
+##  Contents
 
 - `plantclef2025_solution.ipynb` – Detailed step-by-step notebook including:
   - Data preprocessing
@@ -28,7 +28,7 @@ A quadrat is a rectangular frame placed on the ground to define a fixed area for
 
 ---
 
-## 🧪 Scores
+##  Scores
 
 | Split        | Score    |
 |--------------|----------|
@@ -37,7 +37,7 @@ A quadrat is a rectangular frame placed on the ground to define a fixed area for
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python, NumPy, Pandas
 - PyTorch / TorchVision / Timm
@@ -47,7 +47,7 @@ A quadrat is a rectangular frame placed on the ground to define a fixed area for
 
 ---
 
-## 🏆 Competition Credits
+##  Competition Credits
 
 This work is based on the **PlantCLEF 2025 Challenge**, part of the **LifeCLEF 2025 Lab** under the **CLEF Initiative** and associated with the **FGVC workshop @ CVPR**.
 
@@ -81,7 +81,7 @@ All data used is for academic/research purposes as allowed by the challenge term
 
 ## 🔗 Links
 
-- 📘 [My LinkedIn](www.linkedin.com/in/ubaid-ur-rehman-422212177)  
+- 📘 [My LinkedIn](https://www.linkedin.com/in/ubaid-ur-rehman-422212177/)  
 - 🔬 [More about the LifeCLEF Challenges](https://www.imageclef.org/LifeCLEF2025)
 
 ---
